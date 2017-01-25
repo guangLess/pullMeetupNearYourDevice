@@ -1,8 +1,8 @@
 ####Meetup Events pulling from your device’s location. :bike:
 
-<img src = "https://github.com/guangLess/pullMeetupNearYourDevice/blob/master/screenShot/guang-appwalkthrough-ny2.gif" width = 200">
-<img src = "https://github.com/guangLess/pullMeetupNearYourDevice/blob/master/screenShot/screenShot_1.png" width = "200">
-<img src = "https://github.com/guangLess/pullMeetupNearYourDevice/blob/master/screenShot/screenShot_2.png" width = "200">
+<img src = "https://github.com/guangLess/pullMeetupNearYourDevice/blob/master/ScreenShot/Simulator%20Screen%20Shot%20Jan%2024%2C%202017%2C%2011.45.57%20PM.png" width = 200">
+<img src = "https://github.com/guangLess/pullMeetupNearYourDevice/blob/master/ScreenShot/Simulator%20Screen%20Shot%20Jan%2024%2C%202017%2C%2011.45.57%20PM.png" width = "200">
+<img src = "https://github.com/guangLess/pullMeetupNearYourDevice/blob/master/ScreenShot/Simulator%20Screen%20Shot%20Jan%2024%2C%202017%2C%2011.47.51%20PM.png" width = "200">
 
 
 
