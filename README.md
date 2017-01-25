@@ -26,3 +26,5 @@ class **Location** conforms to **CLLocationmanagerDelegate**. It requests device
 **ViewController** adapts canGetLocation and LoadingAPI protocols. EventViewController shows the detail of the event. 
 
 **eventList** Array is a global variable that stores the events. It’s not the best practice for a real app, however I needed it to be global in order to mutate the favorite states from EventViewController.
+
+Icon is from https://thenounproject.com/
